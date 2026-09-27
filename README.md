@@ -104,28 +104,19 @@ Workout recommendation system using association-rule mining and the Apriori algo
 <a href="https://github.com/washam1337">
   <img src="https://img.shields.io/badge/GitHub-washam1337-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-while(alive) {
-    learn();
-    build();
-    break_things();
-    fix_things();
-}
-```
+<sub>
+<code>while(alive) { learn(); build(); break(); fix(); }</code>
+</sub>
 
 </div>
